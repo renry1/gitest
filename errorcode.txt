@@ -1,0 +1,30 @@
+	//注册失败
+	public static final String RegisterError = "10001";
+	//已经注册过
+	public static final String HasRegisterError = "10002";
+	//登录失败
+	public static final String LoginError = "10003";
+	//用户不存在
+	public static final String NoAccountError = "10004";
+	//手机号码格式不正确
+	public static final String NotPhoneNumError = "10005";
+	//验证码生成失败
+	public static final String IdentifyingCodeSendError = "10006";
+	//请填写验证码
+	public static final String NeedIdentifyingCodeError = "10007";
+	//验证码错误
+	public static final String IdentifyingCodeCheckError = "10008";
+	//您的好友数量达到上限
+	public static final String FriendOverMax = "10009";
+	//对方好友数量达到上限
+	public static final String OtherSideFriendOverMax = "10010";
+	//您已被加入黑名单
+	public static final String InBlackList = "10011";
+	//用户名已经被使用
+	public static final String ContainsRoleName = "10012";
+	//请先登录
+	public static final String NeedLogin = "10013";
+	//不能使用当前的名字
+	public static final String HasSameRoleName = "10014";
+	//日期转换失败
+	public static final String DateFormatError = "10015";
